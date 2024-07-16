@@ -24,7 +24,7 @@ namespace NestedObjects
         /// <summary>
         /// The assigned school email address
         /// </summary>
-        public string SchoolEmail { get; private set; }
+        public string SchoolEmail { get; set; }
 
         /// <summary>
         /// The student's date of birth (date only)
